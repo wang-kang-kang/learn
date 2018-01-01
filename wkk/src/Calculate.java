@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class Test {
+public class Calculate {
     static Scanner num = new Scanner(System.in);
 
     public static void main(String[] args) {
-        System.out.println("haha");
-        System.out.println("《Iava入门精通》\n是我学习Java的最佳书籍");
+        System.out.println("**计算器**");
+        //System.out.println("《Iava入门精通》\n是我学习Java的最佳书籍");
         int a = 0, b = 0;
         String goon = "";
         do {
